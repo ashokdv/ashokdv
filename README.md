@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ashokdv
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning kubernetes
 - 📫 Reach out to me at https://www.linkedin.com/in/ashokdv/
 
 <!---
