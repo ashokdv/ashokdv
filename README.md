@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ashokdv
+- 👋 Hi, I’m @ashokdv.
 - Worked as Software Developer at R&D Labs(NGT), Ramco Systems, Chennai. Involved in solving the complex problems faced by Business Units.
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in full stack development.
 - 📫 Reach out to me at https://www.linkedin.com/in/ashokdv/
 
 <!---
